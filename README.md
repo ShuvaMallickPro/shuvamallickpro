@@ -1,95 +1,80 @@
-### Hi there 👋
-
-<!--
-**ShuvoMallick01/ShuvoMallick01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Shuvo Mallick</h1>
-<h3 align="center">A passionate Web Developer specialized in Vue & Nuxt</h3>
+<h1 align="center">Hi there 👋, I'm Shuva Mallick</h1>
+<h3 align="center">🚀 Senior Software Engineer | SaaS Founder | Digital Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shuvomallick01&label=Profile%20views&color=0e75b6&style=flat" alt="shuvomallick01" />
+  <img src="https://komarev.com/ghpvc/?username=shuvamallickpro&label=Profile%20views&color=0e75b6&style=flat" alt="shuvamallickpro" />
 </p>
 
-🔭 I’m currently working on a **Vue 3 + Nuxt 3 Admin Dashboard**  
-  [Live Demo](https://bitskyber.com/templates/uno/)
-
-🌱 I’m currently deepening my knowledge in  
-  **JavaScript, TypeScript, Vue.js, Nuxt.js, Tailwind CSS**
-
-💼 All of my projects and templates are available at  
-  [www.bitskyber.com](https://www.bitskyber.com) | [www.shuvomallick.com](https://www.shuvomallick.com)
-
-📫 Reach me at **shuvomallick23@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shuvomallick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvomallick01" height="30" width="40" /></a>
-<a href="https://dribbble.com/shuvomallick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shuvomallick01" height="30" width="40" /></a>
-<a href="https://www.behance.net/shuvomallick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shuvomallick01" height="30" width="40" /></a>
-<a href="https://fb.com/shuvomallick11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvomallick11" height="30" width="40" /></a>
-<a href="https://instagram.com/shuvomallick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvomallick01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shuvomallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shuvomallick" height="30" width="40" /></a>
-<a href="https://twitter.com/shuvomallick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvomallick01" height="30" width="40" /></a>
+<p align="center">
+  I turn complex problems into scalable software solutions. Founder of <b><a href="https://shuvamallick.com">ShuvaMallick.com</a></b>.
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🔭 **What I'm Working On**
+- 💼 Building scalable SaaS platforms and premium web templates.
+- 🛠 Architecting high-performance web apps using **Vue 3, Nuxt 3, React & Next.js**.
+- 🌱 Deepening knowledge in **System Design, Cloud Architecture (AWS), and AI Integration**.
+
+### 💼 **My Digital HQ**
+- **Portfolio & Agency:** [www.shuvamallick.com](https://shuvamallick.com)
+- **Email:** [hello@shuvamallick.com](mailto:hello@shuvamallick.com)
+
+---
+
+### 🛠 **Tech Stack & Arsenal**
 <p align="left">
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-
-  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
-
-  <!-- Vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
   </a>
-
-  <!-- Nuxt.js -->
-<a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt.js" width="40" height="40" />
-</a>
-
-  <!-- TailwindCSS -->
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt.js" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   </a>
-
-  <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
-
-  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
-
-  
 </p>
 
+---
+
+### 📊 **GitHub Stats**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvamallickpro&show_icons=true&theme=radical&hide_border=true" alt="Shuva's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamallickpro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 **Connect with Me**
+<p align="left">
+<a href="https://linkedin.com/in/shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://dribbble.com/shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
+<a href="https://www.behance.net/shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://twitter.com/shuvamallickpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
