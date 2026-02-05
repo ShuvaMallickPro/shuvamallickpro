@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shuva Mallick</h1>
-<h3 align="center">🚀 Senior Software Engineer | SaaS Founder | Digital Architect</h3>
+<h3 align="center">🚀 Software Engineer | SaaS Founder | Digital Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shuvamallickpro&label=Profile%20views&color=0e75b6&style=flat" alt="shuvamallickpro" />
@@ -17,7 +17,8 @@
 - 🌱 Deepening knowledge in **System Design, Cloud Architecture (AWS), and AI Integration**.
 
 ### 💼 **My Digital HQ**
-- **Portfolio & Agency:** [www.shuvamallick.com](https://shuvamallick.com)
+- **Portfolio:** [www.shuvamallick.com](https://shuvamallick.com)
+- **Agency:** [www.bitskyber.com](https://bitskyber.com)
 - **Email:** [hello@shuvamallick.com](mailto:hello@shuvamallick.com)
 
 ---
