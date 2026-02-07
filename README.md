@@ -19,7 +19,7 @@
 ### 💼 **My Digital HQ**
 - **Portfolio:** [www.shuvamallick.com](https://shuvamallick.com)
 - **Agency:** [www.bitskyber.com](https://bitskyber.com)
-- **Email:** [hello@shuvamallick.com](mailto:hello@shuvamallick.com)
+- **Email:** [contact@shuvamallick.com](mailto:contact@shuvamallick.com)
 
 ---
 
