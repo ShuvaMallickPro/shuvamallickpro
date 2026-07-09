@@ -1,5 +1,3 @@
-&lt;div align="center"&gt;
-
 # Shuva Mallick
 ### Design-minded Software Engineer | SaaS Frontend Developer
 
@@ -7,8 +5,6 @@ I build SaaS dashboards and web apps that convert users.
 10 years of UI/UX design + 3 years of React/Next.js engineering.
 
 [Portfolio](https://shuvamallick.com) · [Nexus Orbit](https://nexus-orbit-saas.vercel.app/) · [Email](mailto:contact@shuvamallick.com)
-
-&lt;/div&gt;
 
 ---
 
